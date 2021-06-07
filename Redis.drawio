@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-07T07:05:53.895Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="HeAfJ3Haap2lyxfgwgcA" version="14.7.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-07T07:07:07.889Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="k4oNjY2TxQ6aq3xlwo-b" version="14.7.6" type="github">
   <diagram id="5fxVy6RvR-oE0-qvCV38" name="文件事件处理器">
-    <mxGraphModel dx="1181" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="674" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -9,6 +9,9 @@
         </mxCell>
         <mxCell id="EYqv4HPE5A0Ay4C7JkxS-2" value="文件事件处理器的四个组成部分" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="250" y="429" width="310" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EYqv4HPE5A0Ay4C7JkxS-10" value="I/O多路复用程序通过队列向文件事件分派器传输套接字" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="826" width="310" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
